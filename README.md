@@ -21,28 +21,28 @@
 * Intermediate level expertise in Android App Development
 
 ## LinkedIn Profile : 
-   *https://www.linkedin.com/in/harshit-p-25944a149/
+   *https://www.linkedin.com/in/harshit-p-25944a149/*
 
 
 ## PROJECTS
-      Walmart Smart Cart
-            15 Mar 2019 - 17 Mar 2019
-            https://github.com/pathak0311/Hackfest-19-Bit-paradox
-            Worked in a Team to make a Smart Cart for the Walmart Problem Statement.
+  Walmart Smart Cart
+        15 Mar 2019 - 17 Mar 2019
+        https://github.com/pathak0311/Hackfest-19-Bit-paradox
+        Worked in a Team to make a Smart Cart for the Walmart Problem Statement.
 
-      Machine Learning in Android App
-            Jan 2019 - Jan 2019
-            Made an Android App that could recognize Face, Text, Objects from an Image given as input by the user.
+  Machine Learning in Android App
+        Jan 2019 - Jan 2019
+        Made an Android App that could recognize Face, Text, Objects from an Image given as input by the user.
             
-      Currency Exchange App
-            Dec 2018 - Dec 2018
-            https://github.com/pathak0311/Currency-Pair-Rates
-            Made a Currency Exchange app which retrieved real-time data from a website that provided an API. The data was    available in JSON format.
+  Currency Exchange App
+        Dec 2018 - Dec 2018
+        https://github.com/pathak0311/Currency-Pair-Rates
+        Made a Currency Exchange app which retrieved real-time data from a website that provided an API. The data was    available in JSON format.
 
-      Market-It
-            Oct 2018 - Oct 2018
-            https://github.com/pathak0311/Market-It
-            An app to bring the products available in the local market on the phone. The user is allowed to choose the range of shops. The shopkeepers can also register their shops on the App. The data of the users and the shops were stored in Firebase Database.
+  Market-It
+        Oct 2018 - Oct 2018
+        https://github.com/pathak0311/Market-It
+        An app to bring the products available in the local market on the phone. The user is allowed to choose the range of shops. The shopkeepers can also register their shops on the App. The data of the users and the shops were stored in Firebase Database.
             
 ## INTERESTS
 * Reading Novels and Programming
