@@ -25,21 +25,21 @@
 
 
 ## PROJECTS
-  Walmart Smart Cart<br />
+  *Walmart Smart Cart*<br />
         15 Mar 2019 - 17 Mar 2019<br />
         https://github.com/pathak0311/Hackfest-19-Bit-paradox<br />
         Worked in a Team to make a Smart Cart for the Walmart Problem Statement.
 
-  Machine Learning in Android App<br />
+  *Machine Learning in Android App*<br />
         Jan 2019 - Jan 2019<br />
         Made an Android App that could recognize Face, Text, Objects from an Image given as input by the user.
             
-  Currency Exchange App<br />
+  *Currency Exchange App*<br />
         Dec 2018 - Dec 2018<br />
         https://github.com/pathak0311/Currency-Pair-Rates<br />
         Made a Currency Exchange app which retrieved real-time data from a website that provided an API. The data was    available in JSON format.
 
-  Market-It<br />
+  *Market-It*<br />
         Oct 2018 - Oct 2018<br />
         https://github.com/pathak0311/Market-It<br />
         An app to bring the products available in the local market on the phone. The user is allowed to choose the range of shops. The shopkeepers can also register their shops on the App. The data of the users and the shops were stored in Firebase Database.
