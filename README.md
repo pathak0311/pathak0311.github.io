@@ -21,10 +21,10 @@
 * Intermediate level expertise in Android App Development
 
 ## LinkedIn Profile : 
-            *https://www.linkedin.com/in/harshit-p-25944a149/
+   *https://www.linkedin.com/in/harshit-p-25944a149/
 
 
-##PROJECTS
+## PROJECTS
       #Walmart Smart Cart
             15 Mar 2019 - 17 Mar 2019
             https://github.com/pathak0311/Hackfest-19-Bit-paradox
